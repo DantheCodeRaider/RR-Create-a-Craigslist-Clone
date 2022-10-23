@@ -23,4 +23,5 @@ export const postings = [
         price: '$6000',
         imageURL: '/assets/dirty_dancing_vhs.jpeg'
     }
-]
+];
+
